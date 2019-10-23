@@ -1,0 +1,9 @@
+<xml>
+<face id="unnamed" >
+<face_map x="0" y="0" w="300" h="300"> </face_map>
+<l_eye_map x="41" y="81" w="85" h="85"> </l_eye_map>
+<r_eye_map x="158" y="77" w="83" h="83"> </r_eye_map>
+<mouth_map x="79" y="214" w="147" h="89"> </mouth_map>
+<nose_map x="87" y="129" w="118" h="100"> </nose_map>
+</face>
+</xml>
